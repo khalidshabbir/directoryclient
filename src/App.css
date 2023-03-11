@@ -1,0 +1,73 @@
+.loading-style{
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 300px;
+  background-color: white;
+}
+
+.cursorPointer{
+  cursor: pointer !important;
+}
+.fontsizeicons{
+  font-size: 45px !important;
+}
+.badgecolor{
+  color: #5FCF80 !important;
+}
+.iconsdiv{
+  background-color: aliceblue;
+  display: inline-block
+  
+}
+.iconsdiv:hover{
+ color: rgb(62, 62, 255);
+}
+.maindivicons{
+  color: rgb(28, 28, 28);
+}
+.maindivicons:hover{
+  color: rgb(62, 62, 255);
+
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.citiesname
+{
+  list-style: none;
+}
+.citiesname:hover{
+  color: rgb(42, 42, 255);
+}
+.btndiv{
+  background-color: rgb(223, 233, 255);
+  padding: 2px;
+  margin-bottom: 2px;
+  border-radius: 5px;
+}
+.linewrap{
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.navlinkhover{
+  color: gray;
+}
+.navlinkhover:hover{
+  color: rgb(0, 119, 255);
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+.ratingclass{
+  fill: rgb(255, 187, 0) !important;
+}
+.MuiRating-iconFilled {
+  color: '#ff6d75',
+}
